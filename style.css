@@ -5,7 +5,7 @@
 }
 
 .card{
-    margin-left: 1125px;
+    margin-left: 955px;
     margin-bottom: 260px;
     margin: auto px;
     padding: auto;
@@ -31,8 +31,13 @@ p{
 }
 
 .img{
-    padding: 50px;
-    margin-top: 100px;
-    margin-left: 150px;
-    background-size: ;
+    padding: auto;
+    margin: 80px;
+    /* margin-top: 100px;
+    margin-left: 150px; */
+    float: left;
+}
+
+footer{
+    background-color: blue;
 }
