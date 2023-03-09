@@ -31,9 +31,22 @@ p{
     font-weight: 100;
 }
 
+card2{
+     display: grid;
+    grid-column-start: 4;
+    grid-row-start: 1;
+}
+
+
+.java{
+    margin-left: 1170px;
+    margin-top: 150px;
+   
+} 
+
 div#stripes {
     height:50px;
-    width: 2000px;
+    width: 1906px;
     background-image: linear-gradient(45deg, #000 25%, transparent 25%, transparent 50%, #000 50%, #000 75%, transparent 75%, rgb(251, 251, 251));
     background-size: 50px 50px;
     margin-bottom: 50px;
